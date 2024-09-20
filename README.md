@@ -1,0 +1,3 @@
+# sqlplacementrepodemo
+
+## sql interview questions
